@@ -20,7 +20,6 @@ The anonymous chat room project is a real-time chat application that provides us
 ### HOW TO USE :
 
 ```
-cd server
 npm install
 npm start
 ```
