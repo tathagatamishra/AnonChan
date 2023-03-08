@@ -1,4 +1,4 @@
-<h1 align="center">ANONCHAN</h1>
+<h1 align="center">Giga Chat</h1>
 
 ## REAL-TIME CHAT APPLICATION 
 
